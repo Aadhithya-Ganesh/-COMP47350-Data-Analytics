@@ -1,0 +1,12 @@
+This lab introduces the Decision Tree and the RandomForest algorithm in the supporting code provided in the notebook:
+Lab11-Notebook-ModelingEvaluation-DecisionTree-RandomForest.ipynb
+
+Focus:
+1. Understanding the DecisionTree and RandomForest algorithms through Python code and relevant libraries.
+
+2. Understanding and practicing training, feature importance, predicting and evaluating with Decision Tree (DT); this is the base model for building an ensemble model called Random Forest (RF).
+
+3. Understanding and practicing training, feature importance, predicting and evaluating with Random Forest (RF). Evaluation of RF models using: train/test error vs cross-validation error vs out-of-sample error (the OOS score or also called out-of-bag OOB evaluation score is specific only to RF models).
+
+
+

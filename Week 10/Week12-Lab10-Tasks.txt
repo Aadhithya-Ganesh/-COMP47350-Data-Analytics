@@ -1,0 +1,11 @@
+This lab continues working with the code in the notebook:
+Lab9-Notebook-Modeling-ClassificationTask-LogisticRegression-scikitlearn.ipynb
+
+The lab will focus on small group discussions with tutor support.
+Please consider posting your questions in advance on Brightspace, so the teaching team can provide constructive feedback during the lab.
+
+
+
+
+
+

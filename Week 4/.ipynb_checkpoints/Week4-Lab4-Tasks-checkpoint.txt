@@ -1,0 +1,14 @@
+Lab4 will closely follow the Lecture7-8 slides and the Jupyter Notebook provided and named 
+Lab4-Notebook-DataUnderstanding-DataQualityPlan-MotorInsuranceData.ipynb
+The goal of Lab4 is to practice creating a data quality report (DQR) and a data quality plan (DQP), and to clean the dataset according to the data quality plan.
+
+Tasks:
+--- 
+1. Get familiar with the MotorInsurance Dataset (explanations for all the features are provided in the textbook).
+2. Revisit the data quality report you prepared for this dataset in Lab 3 to remember the issues identified with this dataset.
+3. Prepare a data quality plan for this dataset (also consult the FMLPDA textbook to guide you on how to think about the data quality plan and what issues to focus on).
+4. Prepare and save a first clean version of your dataset, after applying the solutions listed in the data quality plan.
+
+While this code is provided to you to support you in your learning, there could still be bugs in the code and the solution. Please let us know if you find any bugs and please use the code and these steps with caution, and always double-check the result when you are not sure of the effect of the code for your own data (eg print the affected dataframe rows after changes). 
+It is a good idea to recompute stats and describe the data again after each major transformation, to make sure the code had the intended effect.
+

@@ -1,0 +1,9 @@
+The goal of Lab6 is to continue practicing preparing a data quality report and a data quality plan as well as preparing the data.
+
+Tasks:
+--- 
+1. Discussion/questions on lecture concepts, lab material, Homework1.
+
+2. Get familiar with code for transforming features or sampling instances. 
+As additional support material for the lectures, Lab6-Notebook-DataPrep-BasketballABT-Example_Normalisation-Standardisation-Binning-Sampling.ipynb shows example of data transformation using normalisation, binning and sampling.
+

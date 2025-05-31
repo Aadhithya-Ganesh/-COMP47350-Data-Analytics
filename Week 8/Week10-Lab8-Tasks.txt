@@ -1,0 +1,14 @@
+Recap of LinearRegression: in this lab we spend more time on understanding LinearRegression training, prediction 
+and evaluation measures for the regression task: RMSE, MAE, R2. No new code or materials, we follow the code from Lab7.
+
+----
+
+This lab follows the slides of Week7 and Week10 which introduce the Linear Regression prediction algorithm and the supporting code provided in the notebook
+Lab7-Notebook-Modeling-LinearRegression-sklearn-train-test-categorical-features-evaluation-MSE-MAE-R2.ipynb
+
+Focus:
+1. Understanding the linear regression training and prediction steps through Python code and the sklearn library.
+2. Understanding model evaluation concepts (eg train/test split) by going through the Lab7 notebook and sample code to work with the Offices dataset.
+3. Going through different evaluation measures for regression models, looking at how the trained models behave (wrt prediction error) when using different features.
+4. Comparing evaluation measures computed on the training set versus test set, as well as getting familiar with code for evaluation using cross-validation.
+

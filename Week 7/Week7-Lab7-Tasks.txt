@@ -1,0 +1,10 @@
+This lab follows the slides of Week7 which introduce the Linear Regression prediction algorithm and the supporting code provided in the notebook
+Lab7-Notebook-Modeling-LinearRegression-sklearn-train-test-categorical-features-evaluation-MSE-MAE-R2.ipynb
+
+Focus:
+1. Understanding the linear regression training and prediction steps through Python code and the sklearn library.
+
+2. Understanding model evaluation concepts (eg train/test split and prediction error measure) by going through the Lab7 notebook and sample code to work with the Offices.csv dataset.
+
+3. Going through different evaluation measures for regression models, looking at how the trained models behave (wrt prediction error) when using different features.
+

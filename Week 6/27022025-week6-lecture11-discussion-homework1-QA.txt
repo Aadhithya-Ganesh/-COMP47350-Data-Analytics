@@ -1,0 +1,19 @@
+Lecture structure:
+===================
+
+Part1:  QA for lecture on normalisation, binning, sampling.
+
+Part2: Discussion on Homework1 requirements and QA.
+
+Key points to discuss:
++Submit a single zip archive, please note the naming of this archive as suggested in Homework1 description.
++Make sure to include your dataset used for all the analysis and cleaning. Check list on the Homework1 page: https://brightspace.ucd.ie/d2l/le/lessons/301120/topics/3559948
++Include a single Jupyter notebook and your dataset.
++Include as separate files: DQR and DQP as PDF files.
++Justify your steps with evidence from the data.
++Data integrity checks.
++Document all actions you take in the DQP.
++Save the final cleaned dataset. No Null or NA data should still be present in the cleaned dataset.
+
+Part3: Example solution uploaded to Brightspace for a similar project to Homework1. QA about this.
+

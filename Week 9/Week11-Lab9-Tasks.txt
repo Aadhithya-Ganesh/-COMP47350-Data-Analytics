@@ -1,0 +1,9 @@
+This lab introduces the Logistic Regression algorithm and provides supporting code in the notebook
+Lab9-Notebook-Modeling-ClassificationTask-LogisticRegression-scikitlearn.ipynb
+
+Focus:
+1. Understanding the logistic regression training and prediction steps through Python code and relevant libraries.
+2. Understanding model evaluation concepts for classification (eg train/test split) by going through the Lab9 notebook and sample code to work with the Offices dataset.
+3. Going through different evaluation measures for classification models, looking at how the trained models behave (wrt classification evaluation measures) when using different features.
+4. Comparing evaluation measures computed on the training set versus test set, as well as getting familiar with code for evaluation of classification models using cross-validation.
+

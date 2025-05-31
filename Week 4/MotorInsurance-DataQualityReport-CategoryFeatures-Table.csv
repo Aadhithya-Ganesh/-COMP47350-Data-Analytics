@@ -1,0 +1,6 @@
+Feature,count,unique,top,freq,mode,freq_mode,%mode,2ndmode,freq_2ndmode,%2ndmode,%missing
+InsuranceType,500,1,CI,500,-,-,-,-,-,-,0.0
+MaritalStatus,170,3,Married,99,Married,99,0.5823529411764706,Single,48,0.2823529411764706,66.0
+InjuryType,500,4,Broken Limb,177,Broken Limb,177,0.354,Soft Tissue,172,0.344,0.0
+OvernightHospitalStay,500,2,No,354,No,354,0.708,Yes,146,0.292,0.0
+FraudFlag,500,2,0,332,0,332,0.664,1,168,0.336,0.0
